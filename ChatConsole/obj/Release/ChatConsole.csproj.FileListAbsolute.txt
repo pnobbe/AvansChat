@@ -1,0 +1,5 @@
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatConsole\bin\Release\ChatConsole.exe.config
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatConsole\bin\Release\ChatConsole.exe
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatConsole\bin\Release\ChatConsole.pdb
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatConsole\obj\Release\ChatConsole.exe
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatConsole\obj\Release\ChatConsole.pdb

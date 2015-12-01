@@ -1,0 +1,9 @@
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\ChatService.dll.config
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\ChatService.dll
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\ChatService.pdb
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.dll
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.SqlServer.dll
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.xml
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.SqlServer.xml
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\obj\Debug\ChatService.dll
+E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\obj\Debug\ChatService.pdb
