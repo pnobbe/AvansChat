@@ -21,6 +21,7 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
+    <RestorePackages>true</RestorePackages>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -88,6 +89,10 @@
     <None Include="Properties\PublishProfiles\AvansChatDB.pubxml" />
     <None Include="Properties\PublishProfiles\AvansChatService.pubxml" />
     <None Include="Properties\PublishProfiles\EigenService.pubxml" />
+    <None Include="Properties\PublishProfiles\PatrickChatService - FTP %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\PatrickChatService - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\PatrickChatService - Web Deploy %282%29.pubxml" />
+    <None Include="Properties\PublishProfiles\PatrickChatService - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

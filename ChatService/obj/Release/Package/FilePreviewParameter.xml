@@ -1,13 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="AvansChatDB" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Workspaces\\Prog6_AvansChat\\ChatService\\ChatService\\obj\\Release\\Package\\PackageTmp$" />
-    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Workspaces\\Prog6_AvansChat\\ChatService\\ChatService\\obj\\Release\\Package\\PackageTmp$" />
+  <parameter name="IIS Web Application Name" description="" value="PatrickChatService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\patri\\Documents\\GitHub\\AvansChat\\ChatService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\patri\\Documents\\GitHub\\AvansChat\\ChatService\\obj\\Release\\Package\\PackageTmp$" />
   </parameter>
-  <parameter name="ChatDB-Web.config Connection String" description="" value="Server=tcp:avans-eu.database.windows.net,1433;Database=ChatDb;User ID=linksonder@avans-eu;Password=Abc12345;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;;" tags="">
-    <parameterEntry kind="XmlFile" scope="E:\\Workspaces\\Prog6_AvansChat\\ChatService\\ChatService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatDB']/@connectionString" />
-  </parameter>
-  <parameter name="ChatService.ChatContext-Web.config Connection String" description="" value="Data Source=tcp:avans-eu.database.windows.net,1433;Initial Catalog=ChatDb;User ID=linksonder@avans-eu;Password=Abc12345;Connect Timeout=30;Encrypt=True;TrustServerCertificate=False" tags="">
-    <parameterEntry kind="XmlFile" scope="E:\\Workspaces\\Prog6_AvansChat\\ChatService\\ChatService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatService.ChatContext']/@connectionString" />
+  <parameter name="ChatDB-Web.config Connection String" description="" value="Server=tcp:ov4qod7hzn.database.windows.net,1433;Database=ChatDB;User ID=aroxis@ov4qod7hzn;Password={your_password_here};Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\patri\\Documents\\GitHub\\AvansChat\\ChatService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatDB']/@connectionString" />
   </parameter>
 </parameters>

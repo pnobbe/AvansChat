@@ -9,7 +9,7 @@ namespace ChatService
     public class ChatContext : DbContext
     {
         public ChatContext()
-            : base("name=AvansChatDB")
+            : base("name=ChatDB")
         {
 
         }

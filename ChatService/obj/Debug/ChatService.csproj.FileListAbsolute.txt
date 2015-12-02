@@ -7,3 +7,13 @@ E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.xml
 E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\bin\EntityFramework.SqlServer.xml
 E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\obj\Debug\ChatService.dll
 E:\Workspaces\Prog6_AvansChat\ChatService\ChatService\obj\Debug\ChatService.pdb
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\ChatService.dll.config
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\ChatService.dll
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\ChatService.pdb
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\EntityFramework.dll
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\EntityFramework.SqlServer.dll
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\EntityFramework.xml
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\bin\EntityFramework.SqlServer.xml
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\obj\Debug\ChatService.dll
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\obj\Debug\ChatService.pdb
+C:\Users\patri\Documents\GitHub\AvansChat\ChatService\obj\Debug\ChatService.csprojResolveAssemblyReference.cache

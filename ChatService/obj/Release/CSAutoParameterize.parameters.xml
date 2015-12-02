@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ChatDB-Web.config Connection String" description="ChatDB Connection String used in web.config by the application to access the database." defaultValue="Server=tcp:ov4qod7hzn.database.windows.net,1433;Database=ChatDB;User ID=aroxis@ov4qod7hzn;Password=Qkjo3Ecu;Trusted_Connection=False;Encrypt=True;Connection Timeout=30;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\patri\\Documents\\GitHub\\AvansChat\\ChatService\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ChatDB']/@connectionString" />
+  </parameter>
+</parameters>

@@ -10,7 +10,7 @@ namespace ChatConsole
     {
         static void Main(string[] args)
         {
-            ChatService.IChatService service = new ChatService.ChatServiceClient();
+            MyChatService.IChatService service = new MyChatService.ChatServiceClient();
 
             Console.WriteLine("Loading messages...");
 

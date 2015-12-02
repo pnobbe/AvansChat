@@ -46,7 +46,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Service References\ChatService\Reference.cs">
+    <Compile Include="Service References\MyChatService\Reference.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Reference.svcmap</DependentUpon>
@@ -54,14 +54,14 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Service References\ChatService\ChatService.wsdl" />
-    <None Include="Service References\ChatService\ChatService.xsd">
+    <None Include="Service References\MyChatService\ChatService.wsdl" />
+    <None Include="Service References\MyChatService\ChatService.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\ChatService\ChatService1.xsd">
+    <None Include="Service References\MyChatService\ChatService1.xsd">
       <SubType>Designer</SubType>
     </None>
-    <None Include="Service References\ChatService\ChatService2.xsd">
+    <None Include="Service References\MyChatService\ChatService2.xsd">
       <SubType>Designer</SubType>
     </None>
   </ItemGroup>
@@ -69,19 +69,19 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <WCFMetadataStorage Include="Service References\ChatService\" />
+    <WCFMetadataStorage Include="Service References\MyChatService\" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\ChatService\ChatService.disco" />
+    <None Include="Service References\MyChatService\ChatService.disco" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\ChatService\configuration91.svcinfo" />
+    <None Include="Service References\MyChatService\configuration91.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\ChatService\configuration.svcinfo" />
+    <None Include="Service References\MyChatService\configuration.svcinfo" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Service References\ChatService\Reference.svcmap">
+    <None Include="Service References\MyChatService\Reference.svcmap">
       <Generator>WCF Proxy Generator</Generator>
       <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
